@@ -4,7 +4,7 @@ import patient.model.Patient;
 
 /** Головний клас програми
  * Створює масив пацієнтів і виводить їх за різними критеріями.
- * */
+ */
 
 public class Main {
     public static void main(String[] args) {
