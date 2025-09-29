@@ -7,12 +7,12 @@ import patient.model.Patient;
  */
 
 public class Main {
-    public static void main(String[] args) {
 
-        /** Основний метод програми
-         *
-         * @param args не використовується
-         */
+    /** Основний метод програми
+     *
+     * @param args не використовується
+     */
+    public static void main(String[] args) {
 
         Patient[] patientsArray = createPatientsArray();
 
